@@ -1,17 +1,16 @@
 {
-    "versionLabel": "1.5",
-    "uuid": "07d87811-510f-48f2-b723-6bcfc4db9a40",
-    "appKeys": {},
-    "longName": "Pedometer for Pebble",
-    "versionCode": 7,
-    "capabilities": [
-        ""
-    ],
-    "shortName": "Pedometer",
-    "companyName": "Jathusan Thiruchelvanathan",
-    "watchapp": {
-        "watchface": false
-    },
+  "uuid": "4163edad-d192-4267-88a8-7bb2193de8b7",
+  "shortName": "PebblePed",
+  "longName": "PebblePed: Pedometer for Pebble",
+  "companyName": "Computermacgyver",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
     "resources": {
         "media": [
             {
